@@ -1,2 +1,2 @@
-# dio-jogo-da-memoria-genius
-Jogo da memória Genius com Javascript
+# Jogo da memória Genius
+Criando o jogo da memória Genius com Javascript
